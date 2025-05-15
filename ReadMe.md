@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aymenhamrouni&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ortoniKC&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ortoniKC&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aymenhamrouni&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
  
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aymenhamrouni&limit=5&theme=date_night&combine_all_yearly_contributions=true) 
