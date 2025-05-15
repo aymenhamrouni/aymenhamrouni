@@ -1,5 +1,5 @@
 # 💫 About Me:
-<p align="center"> Hi, I’m Aymen Hamrouni, a Ph.D. researcher in Electrical Engineering at KU Leuven, working with the WaveCore group on intelligent and resource-efficient wireless communication and sensing networks.<br></p>
+<p align="center"> Hi, I’m Aymen Hamrouni, a Ph.D. researcher in Electrical Engineering at KU Leuven, working with the WaveCore group on intelligent and resSource-efficient wireless communication and sensing networks. Most of my research code is private. DM me!<br></p>
 
  
 
